@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+My name is Doug Benson and I am currently working towards a level 5 Diploma in Web Application Development with CodeInstitute.
 <!--
 **dougyb83/dougyb83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
